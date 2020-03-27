@@ -1,8 +1,8 @@
 # SemanaOmni
 
-Projeto desenvolvido na Semana OmniStack da RocketSeat 
+Projeto desenvolvido na Semana OmniStack da RocketSeat. 
 
-Project developed during a short course, originally develeped by Rocketseat
+Project developed during a short term course, originally developed by Rocketseat.
 
-Projet dévellopé lors d'un cours de courte durée, idée originale par Rocketseat
+Projet dévellopé lors d'un cours de courte durée, idée originale par Rocketseat.
 
