@@ -1,6 +1,6 @@
 # SemanaOmni
 
-Projeto desenvolvido na Semana OmniStack da RocketSeat. 
+Projeto desenvolvido na Semana OmniStack 11.0 da RocketSeat. 
 
 Project developed during a short term course, originally developed by Rocketseat.
 
